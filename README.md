@@ -4,8 +4,8 @@ This is just the [sample code](https://tree-sitter.github.io/tree-sitter/using-p
 clojure using coffi.  The sample C code builds and runs without error (see
 `main.c`)
 
-The included treesitter `.so` is the latest version of tree-sitter (on an arch
-linux system - so latest upstream) (same for the `api.h` header). The
+The included `libtree-sitter.so` is the latest version of tree-sitter (on an arch
+linux system - so latest upstream) same for the `api.h` header. The
 included `libtree-sitter-clojure.so` is a build from the git HEAD of the
 project (via AUR)
 
