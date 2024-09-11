@@ -1,6 +1,6 @@
 # Reproduction of problem wrapping treesitter library
 
-This is just the sample code from the treesitter website translated into
+This is just the [sample code](https://tree-sitter.github.io/tree-sitter/using-parsers) from the treesitter website translated into
 clojure using coffi.  The sample C code builds and runs without error (see
 `main.c`)
 
